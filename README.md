@@ -4,6 +4,14 @@ Nettyfinder Android Code
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 
-This script checks a Nigerian Telephone number and detects which network it belongs to. <br>
+This App checks a Nigerian Telephone number and detects which network it belongs to. <br>
+HOW TO USE <br>
+Add Nettyfinder library as a Dependency then
+```java
+import com.nettyfinder.Netty;
+.....
+String value = Netty.getNetworkString("Phone Number");
+```
 
-Demo [Here](https://netty-finder.herokuapp.com)
+Web Version [Here](https://github.com/BolajiAyodeji/netty-finder)
+Web Demo [Here](https://netty-finder.herokuapp.com)
