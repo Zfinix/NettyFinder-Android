@@ -12,6 +12,10 @@ import com.nettyfinder.Netty;
 .....
 String value = Netty.getNetworkString("Phone Number");
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zfinix/NettyFinder-Android/screenshots/1.png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/Zfinix/NettyFinder-Android/screenshots/2.png" width="350" alt="accessibility text">
+</p>
 
 Web Version [Here](https://github.com/BolajiAyodeji/netty-finder)
 Web Demo [Here](https://netty-finder.herokuapp.com)
